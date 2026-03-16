@@ -1,4 +1,4 @@
-# Olá! Eu sou Karen Prado 👋
+# Olá! Eu sou a Karen Prado 👋
 
 💻 Estudante de Desenvolvimento de Sistemas  
 🚀 Apaixonada por tecnologia  
