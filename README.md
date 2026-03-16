@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá! Eu sou Karen Prado 👋
 
-<!--
-**Dev-KarenPrado/Dev-KarenPrado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Desenvolvimento de Sistemas  
+🚀 Apaixonada por tecnologia  
+📚 Atualmente aprendendo programação   
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin)](https://www.linkedin.com/in/karen-a-r-prado)
+
+[![Gmail](https://img.shields.io/badge/Gmail-Contato-red?logo=gmail)](mailto:dev.karenprado@gmail.com)
+
+## Projeto real de uma futura desenvolvedora 🚀
