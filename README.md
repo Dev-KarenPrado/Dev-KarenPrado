@@ -14,4 +14,11 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-Contato-red?logo=gmail)](mailto:dev.karenprado@gmail.com)
 
-## Projeto real de uma futura desenvolvedora 🚀
+## Construindo meu caminho no mundo da programação 🚀
+
+
+
+
+## 🐍 Contribuições
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
